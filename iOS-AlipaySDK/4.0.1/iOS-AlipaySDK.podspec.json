@@ -15,7 +15,7 @@
   },
   "requires_arc": true,
   "source": {
-    "git": "https://github.com/shenlujia/iOS-AlipaySDK.git",
+    "git": "git@115.29.76.128:JOU/iOS-AlipaySDK.git",
     "tag": "4.0.1"
   },
   "frameworks": [
