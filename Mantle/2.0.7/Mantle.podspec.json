@@ -1,6 +1,6 @@
 {
-  "name": "Mantle-Beta",
-  "version": "2.0.6",
+  "name": "Mantle",
+  "version": "2.0.7",
   "summary": "Model framework for Cocoa and Cocoa Touch.",
   "homepage": "https://github.com/Mantle/Mantle",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "Github": "support@github.com"
   },
   "source": {
-    "git": "git@115.29.76.128:JOU/Mantle-Beta.git",
+    "git": "git@115.29.76.128:JOU/Mantle.git",
     "tag": "2.0.6"
   },
   "platforms": {
