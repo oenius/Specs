@@ -17,10 +17,14 @@
     "watchos": "2.0",
     "tvos": "9.0"
   },
-  "dependency": 'JSPatch', '~> 0.2',
   "requires_arc": true,
   "frameworks": "Foundation",
   "source_files": "Mantle",
+   "dependencies": {
+       "JSPatch": [
+             "~> 0.2"
+           ]
+     },
   "subspecs": [
     {
       "name": "extobjc",
